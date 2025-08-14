@@ -7,7 +7,7 @@
 
 > **Transform your ideas into captivating stories with AI-powered writing assistance, visual story mapping, and intelligent character development.**
 
-![Story Time Banner](awsbedrock.png)
+<img src="awsbedrock.png" alt="Story Time Banner" width="80">
 
 ## 🌟 Features
 
